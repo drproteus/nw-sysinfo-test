@@ -1,0 +1,20 @@
+{
+  "name": "nwtest1",
+  "version": "1.0.0",
+  "main": "index.html",
+  "window": {
+    "width": 400,
+    "height": 600,
+    "resizable": true
+  },
+  "scripts": {
+    "nw": "nw ."
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "nw": "^0.52.2"
+  },
+  "dependencies": {
+    "systeminformation": "^5.6.12"
+  }
+}
