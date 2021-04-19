@@ -9,7 +9,6 @@ const getHostname = () => {
 const updateStats = () => {
   updateCPU();
   updateGPU();
-  updateNetwork();
 };
 
 const updateCPU = () => {
